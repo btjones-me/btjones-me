@@ -8,10 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=btjones-me&count_private=true&show_icons=true&hide=stars" alt="Ben's GitHub stats"/>
 </p>
 
-<p align="center">
-  🔒 Note: Most of my commits are in private repositories
-</p>
-
 <h3 align="center">💻 Experienced across</h3>
 
 <p align="center">
@@ -57,9 +53,7 @@
   <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/githubactions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white">
   <img src="https://img.shields.io/badge/Azure_Pipelines-%230072C6.svg?style=flat&logo=azure-pipelines&logoColor=white">
-
-
-
+  
   <br/>
   <!-- ML Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
@@ -77,4 +71,9 @@
   <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
 
+</p>
+
+
+<p align="center">
+  Please note most of my commits are in private repositories
 </p>
