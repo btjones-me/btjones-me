@@ -1,7 +1,10 @@
 <h2 align="center">👋 Hi, I'm Ben.</h2>
 
 <p align="center">
-  <em>ML & AI opportunist | London-based </em>
+  ML & AI opportunist <br>
+    London-based <br>
+    Passionate about using AI to make stuff better.
+  
 </p>
 
 <p align="center">
@@ -75,5 +78,5 @@
 
 
 <p align="center">
-  Please note most of my commits are in private repositories
+  <em>(Please note most of my commits are in private repositories)</em>
 </p>
