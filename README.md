@@ -7,9 +7,6 @@
   
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=btjones-me&count_private=true&show_icons=true&hide=stars" alt="Ben's GitHub stats"/>
-</p>
 
 <h3 align="center">💻 Experienced across</h3>
 
