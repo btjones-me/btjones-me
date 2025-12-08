@@ -4,7 +4,8 @@
   ML & AI opportunist <br>
     London-based <br>
     Passionate about using AI to make stuff better.
-  
+    <br>
+    Check out my website at https://benjon.es if you want to know more about me.
 </p>
 
 
