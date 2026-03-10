@@ -8,17 +8,16 @@
     Check out my website at https://benjon.es if you want to know more about me.
 </p>
 
+<!--
 
 <h3 align="center">💻 Experienced across</h3>
 
 <p align="center">
-  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white">
 
   <br/>
-  <!-- Cloud Platforms -->
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=Google%20Cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure&logoColor=white">
@@ -26,13 +25,11 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white">
 
   <br/>
-  <!-- Operating Systems -->
   <img src="https://img.shields.io/badge/macOS-%23999999.svg?style=flat&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white">
 
   <br/>
-  <!-- IDEs & Dev Tools -->
   <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=flat&logo=visual%20studio%20code&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
   <img src="https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white"/>
@@ -44,7 +41,6 @@
   <img src="https://img.shields.io/badge/uv-FFD43B?style=flat&logo=python&logoColor=blue"/>
   
   <br/>
-  <!-- DBs and DevOps -->
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/bigquery-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
@@ -56,7 +52,6 @@
   <img src="https://img.shields.io/badge/Azure_Pipelines-%230072C6.svg?style=flat&logo=azure-pipelines&logoColor=white">
   
   <br/>
-  <!-- ML Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
@@ -74,7 +69,10 @@
 
 </p>
 
+-->
+
 
 <p align="center">
-  <em>(Please note most of my commits are in private repositories)</em>
+<em>(Please note most of my commits are in private repositories)</em>
 </p>
+  
